@@ -7,6 +7,6 @@
   margin-bottom: 10px;
 }
 
-.form-field > .form-field_label:last-child {
+.form-field_label:last-child {
   margin-bottom: 0;
 }
